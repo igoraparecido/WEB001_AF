@@ -1,0 +1,7 @@
+*Usado para clonar o repositório: git clone 
+
+*Adicionar os 2 arquivos a index: git add *
+
+*Enviar arquivos para a HEAD: git commit -m "Entrega prova final"
+
+*Enviar o arquivo para o repositório online: git push origin master
